@@ -14,7 +14,6 @@ I enjoy building projects using Python, SQL, Data Science tools, and modern web 
 - Programming Languages:
   - Python
   - C
-  - JavaScript
 
 - Web Technologies:
   - HTML
