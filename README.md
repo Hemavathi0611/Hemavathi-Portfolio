@@ -72,4 +72,4 @@ GitHub:
 https://github.com/Hemavathi0611
 
 LinkedIn:
-(https://www.linkedin.com/in/hemavathi-n-9045762a5)
+https://www.linkedin.com/in/hemavathi-n-9045762a5
