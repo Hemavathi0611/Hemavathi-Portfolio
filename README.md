@@ -1,74 +1,75 @@
-# Hema Portfolio Website
+# Hemavathi N | Portfolio
 
-Welcome to my personal portfolio website!  
-This portfolio showcases my skills, projects, certifications, and journey as a Computer Science Engineering student.
+Welcome to my personal portfolio website! This website showcases my skills, projects, internship experience, and resume as a Computer Science Engineering student.
 
 ## 👩‍💻 About Me
 
-I am Hemavathi N, a Computer Science Engineering student interested in Data Analytics, Machine Learning, and Web Development.
+I am **Hemavathi N**, a Computer Science Engineering student at **SR University** with a strong interest in Data Analytics, Artificial Intelligence, Machine Learning, and Web Development.
 
-I enjoy building projects using Python, SQL, Data Science tools, and modern web technologies.
+I enjoy building real-world projects using Python, SQL, Power BI, and modern web technologies to solve practical problems.
 
-## 🛠️ Skills
+---
 
-- Programming Languages:
-  - Python
-  - C
+## 🛠️ Technical Skills
 
-- Web Technologies:
-  - HTML
-  - CSS
-  - JavaScript
+- **Programming:** Python, C
+- **Web:** HTML, CSS, JavaScript
+- **Database:** MySQL
+- **Data Analytics:** Pandas, NumPy, Power BI, Excel
+- **Tools:** Git, GitHub, VS Code, Jupyter Notebook, Google Colab
 
-- Data & Analytics:
-  - SQL
-  - Pandas
-  - NumPy
-  - Power BI
-  - Excel
-
-- Tools:
-  - Git & GitHub
-  - VS Code
-  - Jupyter Notebook
-  - Google Colab
+---
 
 ## 🚀 Projects
 
-### E-Commerce Customer Churn & Retention Analysis
+### 🏏 CricketIQ AI Analytics System
+- Developed an AI-powered cricket analytics platform using Python, Machine Learning, MySQL, Power BI, and Streamlit.
+- Built a Random Forest model to predict players' next-match scores.
+- Created interactive dashboards for batting, bowling, and team performance analytics.
 
+**Technologies:** Python, Scikit-learn, MySQL, Power BI, Streamlit
+
+---
+
+### 📊 E-Commerce Customer Churn Analysis
 - Analyzed customer purchase behavior using Python and Power BI.
-- Performed data cleaning, exploratory data analysis, RFM segmentation, and customer retention analysis.
+- Performed data cleaning, exploratory data analysis, and customer retention analysis.
 
-**Technologies Used:**
-Python, Pandas, NumPy, Matplotlib, Power BI
+**Technologies:** Python, Pandas, NumPy, Matplotlib, Power BI
 
+---
 
-### Sentiment Analysis using Machine Learning
+### 😊 Sentiment Analysis using Machine Learning, LSTM & BERT
+- Developed sentiment classification models using Machine Learning, CNN, LSTM, and BERT.
+- Achieved around 90% accuracy using BERT.
 
-- Built a sentiment classification model to analyze text data.
-- Explored NLP techniques for text preprocessing and classification.
+**Technologies:** Python, NLP, TensorFlow, BERT
 
-**Technologies Used:**
-Python, NLP, Machine Learning
+---
 
+## 💼 Internship
 
-## 📜 Certifications
+**AICTE Eduskills Virtual Internship – Data Analytics**
 
-- Internship Certificate
-- Technical Certifications
+- Performed data preprocessing and cleaning.
+- Built visualizations to identify business insights.
+- Worked with real-world datasets using industry-standard analytics tools.
 
+---
 
-## 🌐 Portfolio Website
+## 🌐 Live Portfolio
 
-Live Website:
-https://Hemavathi0611.github.io/Hemavathi-Portfolio/
+https://hemavathi0611.github.io/Hemavathi-Portfolio/
 
+---
 
 ## 📫 Connect With Me
 
-GitHub:
+**GitHub**
 https://github.com/Hemavathi0611
 
-LinkedIn:
-https://www.linkedin.com/in/hemavathi-n-9045762a5
+**LinkedIn**
+https://www.linkedin.com/in/hemavathi-n-9045762a5/
+
+**Email**
+hemehemavathi012334@gmail.com
