@@ -482,6 +482,8 @@ nav ul li a:hover{
 
     margin:20px;
 
+    margin-top:auto;
+
     text-decoration:none;
 
     background:#2563eb;
@@ -491,7 +493,6 @@ nav ul li a:hover{
     padding:12px 24px;
 
     border-radius:8px;
-
 }
 /* ========================= */
 /* Internship Section */
