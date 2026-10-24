@@ -77,7 +77,7 @@ Completed five exploratory data analysis projects using the following datasets:
 - Applied Python to preprocess datasets and evaluate multiple machine learning models.
 - Explored 5+ supervised machine learning algorithms and evaluated model performance using standard metrics.
 
-**Certificate:** `certificates/internship-certificate.pdf`
+
 
 ### 💻 Python Full Stack Development
 
@@ -89,7 +89,7 @@ Completed five exploratory data analysis projects using the following datasets:
 - Explored application testing, deployment, and performance optimization.
 - Worked on an e-commerce capstone project and a Log Statistics Mini Analyzer.
 
-**Certificate:** `certificates/python full stack intern edu.pdf`
+
 
 ---
 
@@ -102,7 +102,7 @@ Completed five exploratory data analysis projects using the following datasets:
 - Created visualizations and interactive dashboards to identify trends and insights.
 - Developed skills in data-driven decision-making and reporting.
 
-**Certificate:** `certificates/Data Analytics with python&pbi(edu).pdf`
+
 
 ---
 
