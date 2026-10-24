@@ -23,6 +23,24 @@ I enjoy building real-world projects using Python, SQL, Power BI, and modern web
 
 ## 🚀 Projects
 
+## 📊 Python-Based EDA Portfolio
+
+**Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn
+
+Completed five exploratory data analysis projects using the following datasets:
+- Zomato
+- BigBasket
+- Netflix
+- Spotify
+- MagicBricks
+
+**Key Highlights:**
+- Performed data cleaning and missing-value handling.
+- Identified and removed duplicate records.
+- Conducted statistical and correlation analysis.
+- Detected outliers and explored data distributions.
+- Created visualizations and analytical reports to identify trends, patterns, and actionable insights.
+
 ### 🏏 CricketIQ AI Analytics System
 
 - Developed an AI-powered cricket analytics platform using Python, Machine Learning, MySQL, Power BI, and Streamlit.
