@@ -804,3 +804,271 @@ footer{
     transform:scale(1.1);
 
 }
+
+/* ========================= */
+/* Portfolio Layout Fixes */
+/* ========================= */
+
+/* Prevent sticky navbar from covering section headings */
+section {
+    scroll-margin-top: 100px;
+}
+
+/* Keep hero buttons aligned */
+.buttons .btn {
+    display: inline-block;
+}
+
+/* Make project cards equal-height and align buttons */
+.project-card {
+    display: flex;
+    flex-direction: column;
+}
+
+.project-card p {
+    line-height: 1.7;
+}
+
+.project-btn {
+    align-self: flex-start;
+    margin-top: auto;
+}
+
+/* Keep the thank-you message below contact cards */
+.thanks {
+    flex-basis: 100%;
+}
+
+
+/* Center the third internship card on desktop */
+@media (min-width: 901px) {
+    .internship-card:last-child {
+        grid-column: 1 / -1;
+        width: calc((100% - 30px) / 2);
+        justify-self: center;
+    }
+}
+/* ========================= */
+/* Tablet Responsive Design */
+/* ========================= */
+
+@media (max-width: 900px) {
+
+    nav {
+        padding: 18px 30px;
+        flex-wrap: wrap;
+        gap: 15px;
+    }
+
+    nav ul {
+        flex-wrap: wrap;
+        gap: 15px;
+    }
+
+    nav ul li {
+        margin-left: 0;
+    }
+
+    .hero {
+        padding: 60px 35px;
+        gap: 35px;
+    }
+
+    .hero-text h1 {
+        font-size: 42px;
+    }
+
+    .hero-image img {
+        width: 260px;
+    }
+
+    .skills,
+    .projects,
+    .about,
+    .contact {
+        padding: 60px 35px;
+    }
+
+    .skills-container {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .project-card {
+        width: min(100%, 420px);
+    }
+}
+
+/* ========================= */
+/* Mobile Responsive Design */
+/* ========================= */
+
+@media (max-width: 600px) {
+
+    nav {
+        flex-direction: column;
+        padding: 18px 15px;
+    }
+
+    .logo {
+        font-size: 24px;
+    }
+
+    nav ul {
+        justify-content: center;
+        gap: 12px 18px;
+    }
+
+    nav ul li a {
+        font-size: 14px;
+    }
+
+    .hero {
+        flex-direction: column-reverse;
+        text-align: center;
+        padding: 45px 20px;
+    }
+
+    .hero-text {
+        width: 100%;
+    }
+
+    .hero-text h1 {
+        font-size: 36px;
+    }
+
+    .hero-text h2 {
+        font-size: 20px;
+    }
+
+    .hero-text h3 {
+        font-size: 24px;
+    }
+
+    .hero-text p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .hero-image img {
+        width: 210px;
+    }
+
+    .buttons {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 15px;
+    }
+
+    .btn {
+        margin-right: 0;
+        padding: 12px 20px;
+    }
+
+    .about,
+    .skills,
+    .projects,
+    .contact {
+        padding: 45px 20px;
+    }
+
+    .about-content h2,
+    .skills h2,
+    .projects h2,
+    .contact h2 {
+        font-size: 32px;
+    }
+
+    .about-content p {
+        font-size: 16px;
+        line-height: 28px;
+    }
+
+    .about-info {
+        gap: 15px;
+    }
+
+    .about-info div {
+        width: 100%;
+    }
+
+    .skills-container {
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+
+    .skill-card {
+        padding: 30px 20px;
+    }
+
+    .skill-card h3 {
+        font-size: 21px;
+    }
+
+    .project-card {
+        width: 100%;
+    }
+
+    .project-card img {
+        width: calc(100% - 30px);
+        height: 170px;
+    }
+
+    .project-card h3 {
+        font-size: 19px;
+    }
+
+    .project-card p {
+        font-size: 15px;
+    }
+
+    .internship {
+        padding: 40px 18px;
+    }
+
+    .internship h2 {
+        font-size: 32px;
+    }
+
+    .internship-header h3 {
+        font-size: 18px;
+    }
+
+    .internship-card {
+        padding: 22px;
+    }
+
+    .contact-card {
+        width: 100%;
+    }
+
+    footer {
+        font-size: 14px;
+        padding: 20px;
+    }
+
+    #topBtn {
+        width: 45px;
+        height: 45px;
+        bottom: 18px;
+        right: 18px;
+    }
+}
+
+/* ========================= */
+/* Accessibility */
+/* ========================= */
+
+@media (prefers-reduced-motion: reduce) {
+
+    html {
+        scroll-behavior: auto;
+    }
+
+    *,
+    *::before,
+    *::after {
+        transition-duration: 0.01ms !important;
+        animation-duration: 0.01ms !important;
+    }
+}
